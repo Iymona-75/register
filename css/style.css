@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    max-width: 1550px;
+    height: 100vh ;
+}
+.row{
+    display: flex;
+    margin: 0 auto ;
+    width: 100%;
+    height: 100%;
+}
+
+
+.right__side{
+    margin: 100px 30px ;
+
+    width: 50% ;
+    height: 100% ;
+    margin-top: 100px ;
+    margin-left: 50px;
+}
+
+
+h1{
+    font-size: 20px ;
+    color: rgb(31, 31, 205)
+
+}
+p{
+    font-size:10px ;
+    width: 180px ;
+}
+.left__side{
+    margin: 100px 400px ;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(252, 237, 225);
+}
+input{
+    width: 160;
+    margin: 10px 20px ;
+}
+.Enter{
+    width: 168px;
+    margin: 10px 20px;
+    background-color: rgb(80, 80, 236);
+}
+a{
+    font-size: 10px;
+    color: blue;
+    margin: 54px 65px;
+}
+.create__accounta{
+    width: 160px;
+    height: 20px;
+    margin: 20px 10px;
+    background-color:chartreuse ;
+}
